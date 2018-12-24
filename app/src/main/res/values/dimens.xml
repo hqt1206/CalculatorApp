@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp_0">0dp</dimen>
+    <dimen name="button_padding_top">16dp</dimen>
+    <dimen name="button_padding_bottom">16dp</dimen>
+    <dimen name="sp_28">28sp</dimen>
+    <dimen name="button_margin">1dp</dimen>
+    <dimen name="calculate_screen_padding">16dp</dimen>
+    <dimen name="expression2_text_size">36sp</dimen>
+    <dimen name="result_text_size">48sp</dimen>
+</resources>
